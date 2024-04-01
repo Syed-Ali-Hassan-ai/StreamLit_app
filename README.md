@@ -8,3 +8,4 @@ Streamlit is installed. You can install it using pip install streamlit.
 Langchain is installed. 
 ChromaDb is installed 
 Ctransformers is installed 
+wget is installed
